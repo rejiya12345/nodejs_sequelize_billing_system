@@ -1,0 +1,1078 @@
+2017-07-03T04:51:49.064Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 10:21:49 GMT+0530 (IST), pid=5072, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=76029952, heapTotal=57020448, heapUsed=35516432, loadavg=[0.22607421875, 0.12939453125, 0.09765625], uptime=12506
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T04:52:22.595Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 10:22:22 GMT+0530 (IST), pid=5085, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=75968512, heapTotal=58052384, heapUsed=35420352, loadavg=[0.255859375, 0.1474609375, 0.103515625], uptime=12539
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T05:12:33.382Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 10:42:33 GMT+0530 (IST), pid=5193, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=76890112, heapTotal=57020448, heapUsed=35392976, loadavg=[0.02783203125, 0.0517578125, 0.07177734375], uptime=13750
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T05:12:50.320Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 10:42:50 GMT+0530 (IST), pid=5204, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=76976128, heapTotal=57020448, heapUsed=35386184, loadavg=[0.01904296875, 0.0478515625, 0.06982421875], uptime=13767
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T05:15:47.639Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 10:45:47 GMT+0530 (IST), pid=5281, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=76976128, heapTotal=57020448, heapUsed=35396736, loadavg=[0.35009765625, 0.203125, 0.12255859375], uptime=13944
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T05:24:38.162Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 10:54:38 GMT+0530 (IST), pid=5421, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=76861440, heapTotal=57020448, heapUsed=35385336, loadavg=[0.17138671875, 0.21875, 0.15478515625], uptime=14475
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T05:33:02.362Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 11:03:02 GMT+0530 (IST), pid=5620, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=75886592, heapTotal=57020448, heapUsed=35491768, loadavg=[0.17138671875, 0.21923828125, 0.181640625], uptime=14979
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-07-03T05:49:04.728Z - [31merror[39m: uncaughtException: admin is not defined date=Mon Jul 03 2017 11:19:04 GMT+0530 (IST), pid=5711, uid=1000, gid=1000, cwd=/home/rejiya/online-entrance, execPath=/usr/bin/nodejs, version=v5.11.0, argv=[/usr/bin/nodejs, /home/rejiya/online-entrance/server.js], rss=68374528, heapTotal=57020448, heapUsed=35501552, loadavg=[0.3271484375, 0.1630859375, 0.1533203125], uptime=15941
+ReferenceError: admin is not defined
+    at Object.<anonymous> (/home/rejiya/online-entrance/server.js:59:19)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+    at node.js:405:3
+2017-08-25T02:25:33.885Z - [31merror[39m: uncaughtException: Unexpected end of input date=Fri Aug 25 2017 07:55:33 GMT+0530 (IST), pid=3063, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v0.10.25, argv=[node, /home/rejiya/project/server.js], rss=37003264, heapTotal=26877056, heapUsed=14905368, loadavg=[0.80126953125, 0.3427734375, 0.25341796875], uptime=6578.314666004
+SyntaxError: Unexpected end of input
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+2017-08-25T02:27:10.578Z - [31merror[39m: uncaughtException: Use of const in strict mode. date=Fri Aug 25 2017 07:57:10 GMT+0530 (IST), pid=3094, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v0.10.25, argv=[node, /home/rejiya/project/server.js], rss=36515840, heapTotal=25873536, heapUsed=15230552, loadavg=[0.45849609375, 0.40576171875, 0.2900390625], uptime=6675.006549937
+SyntaxError: Use of const in strict mode.
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/rejiya/project/node_modules/sequelize/index.js:8:18)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+2017-09-26T02:27:07.038Z - [31merror[39m: uncaughtException: Unexpected token . date=Tue Sep 26 2017 07:57:06 GMT+0530 (IST), pid=28842, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49172480, heapTotal=35717120, heapUsed=18857992, external=169138, loadavg=[0.46728515625, 0.28759765625, 0.37255859375], uptime=493672
+/home/rejiya/project/routes/users.js:27
+  var req.body.name="raj";
+         ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-26T13:57:40.050Z - [31merror[39m: uncaughtException: missing ) after argument list date=Tue Sep 26 2017 19:27:40 GMT+0530 (IST), pid=509, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50352128, heapTotal=35717120, heapUsed=18061436, external=102151, loadavg=[0.37353515625, 0.51025390625, 0.431640625], uptime=535105
+/home/rejiya/project/routes/users.js:29
+    res.send("name is " name);
+             ^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-26T13:57:46.996Z - [31merror[39m: uncaughtException: missing ) after argument list date=Tue Sep 26 2017 19:27:46 GMT+0530 (IST), pid=519, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50335744, heapTotal=35717120, heapUsed=18140076, external=102151, loadavg=[0.34375, 0.501953125, 0.42919921875], uptime=535112
+/home/rejiya/project/routes/users.js:29
+    res.send("name is " name);
+             ^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-26T13:58:37.401Z - [31merror[39m: uncaughtException: missing ) after argument list date=Tue Sep 26 2017 19:28:37 GMT+0530 (IST), pid=530, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49053696, heapTotal=35717120, heapUsed=18829932, external=160988, loadavg=[0.1494140625, 0.42431640625, 0.4052734375], uptime=535162
+/home/rejiya/project/routes/users.js:29
+    res.send("name is " req.name);
+             ^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-26T14:01:20.961Z - [31merror[39m: uncaughtException: Unexpected token { date=Tue Sep 26 2017 19:31:20 GMT+0530 (IST), pid=547, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50036736, heapTotal=35717120, heapUsed=18045864, external=102141, loadavg=[0.78515625, 0.4482421875, 0.4140625], uptime=535326
+/home/rejiya/project/routes/users.js:25
+ var obj{
+        ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-26T14:04:30.481Z - [31merror[39m: uncaughtException: missing ) after argument list date=Tue Sep 26 2017 19:34:30 GMT+0530 (IST), pid=598, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50507776, heapTotal=35717120, heapUsed=18070036, external=102144, loadavg=[1.01416015625, 0.79833984375, 0.56494140625], uptime=535515
+/home/rejiya/project/routes/users.js:32
+    res.send("name is " obj.name);
+             ^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-30T07:58:47.029Z - [31merror[39m: uncaughtException: Invalid or unexpected token date=Sat Sep 30 2017 13:28:47 GMT+0530 (IST), pid=12480, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49987584, heapTotal=35717120, heapUsed=18060352, external=102039, loadavg=[0.26318359375, 0.66845703125, 0.96728515625], uptime=859171
+/home/rejiya/project/routes/users.js:23
+usersController.get('/profile, function(req, res) {
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-30T08:01:27.414Z - [31merror[39m: uncaughtException: Unexpected end of input date=Sat Sep 30 2017 13:31:27 GMT+0530 (IST), pid=12500, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49524736, heapTotal=35717120, heapUsed=18637068, external=169215, loadavg=[0.080078125, 0.4375, 0.83349609375], uptime=859331
+/home/rejiya/project/routes/users.js:101
+});
+  ^
+
+SyntaxError: Unexpected end of input
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-09-30T08:02:59.107Z - [31merror[39m: uncaughtException: Unexpected end of input date=Sat Sep 30 2017 13:32:59 GMT+0530 (IST), pid=12512, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50192384, heapTotal=35717120, heapUsed=18063028, external=102190, loadavg=[0.22705078125, 0.36669921875, 0.7685546875], uptime=859423
+/home/rejiya/project/routes/users.js:101
+});
+  ^
+
+SyntaxError: Unexpected end of input
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-01T01:35:28.132Z - [31merror[39m: uncaughtException: missing ) after argument list date=Sun Oct 01 2017 07:05:28 GMT+0530 (IST), pid=6975, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50323456, heapTotal=35717120, heapUsed=18073428, external=102051, loadavg=[0.5244140625, 0.64599609375, 0.50439453125], uptime=51633
+/home/rejiya/project/routes/users.js:25
+  res.render('loginus',{output:req.params.id}
+                                            ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-03T12:36:24.554Z - [31merror[39m: uncaughtException: Unexpected end of input date=Tue Oct 03 2017 18:06:24 GMT+0530 (IST), pid=14523, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50540544, heapTotal=35717120, heapUsed=18108412, external=102121, loadavg=[0.08642578125, 0.19482421875, 0.29248046875], uptime=264093
+/home/rejiya/project/routes/users.js:96
+});
+  ^
+
+SyntaxError: Unexpected end of input
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-03T12:37:41.400Z - [31merror[39m: uncaughtException: Unexpected token ) date=Tue Oct 03 2017 18:07:41 GMT+0530 (IST), pid=14534, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50360320, heapTotal=35717120, heapUsed=18047080, external=102127, loadavg=[0.169921875, 0.20458984375, 0.29052734375], uptime=264170
+/home/rejiya/project/routes/users.js:29
+  )};
+  ^
+
+SyntaxError: Unexpected token )
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-03T12:38:36.121Z - [31merror[39m: uncaughtException: Unexpected token ) date=Tue Oct 03 2017 18:08:36 GMT+0530 (IST), pid=14546, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49938432, heapTotal=35717120, heapUsed=18058772, external=102127, loadavg=[0.10888671875, 0.1845703125, 0.27978515625], uptime=264225
+/home/rejiya/project/routes/users.js:29
+  )};
+  ^
+
+SyntaxError: Unexpected token )
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-03T14:39:23.178Z - [31merror[39m: uncaughtException: User is not defined date=Tue Oct 03 2017 20:09:23 GMT+0530 (IST), pid=16268, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50364416, heapTotal=35717120, heapUsed=18301604, external=106375, loadavg=[0.30029296875, 0.28173828125, 0.3388671875], uptime=271471
+ReferenceError: User is not defined
+    at Object.<anonymous> (/home/rejiya/project/routes/users.js:29:13)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-03T14:39:54.423Z - [31merror[39m: uncaughtException: User is not defined date=Tue Oct 03 2017 20:09:54 GMT+0530 (IST), pid=16280, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49442816, heapTotal=35717120, heapUsed=19092804, external=173400, loadavg=[0.3154296875, 0.28369140625, 0.3359375], uptime=271502
+ReferenceError: User is not defined
+    at Object.<anonymous> (/home/rejiya/project/routes/users.js:29:13)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-03T14:44:14.685Z - [31merror[39m: uncaughtException: Unexpected token } date=Tue Oct 03 2017 20:14:14 GMT+0530 (IST), pid=16297, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49242112, heapTotal=35717120, heapUsed=18840152, external=169145, loadavg=[0.12060546875, 0.17822265625, 0.28076171875], uptime=271763
+/home/rejiya/project/routes/users.js:95
+});
+^
+
+SyntaxError: Unexpected token }
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-04T01:14:56.203Z - [31merror[39m: uncaughtException: missing ) after argument list date=Wed Oct 04 2017 06:44:56 GMT+0530 (IST), pid=18385, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49987584, heapTotal=35717120, heapUsed=18055776, external=102116, loadavg=[0.38818359375, 0.75341796875, 0.6884765625], uptime=309604
+/home/rejiya/project/routes/users.js:34
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-04T01:33:24.299Z - [31merror[39m: uncaughtException: missing ) after argument list date=Wed Oct 04 2017 07:03:24 GMT+0530 (IST), pid=18525, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49725440, heapTotal=35717120, heapUsed=18762524, external=185550, loadavg=[0.1484375, 0.21533203125, 0.4013671875], uptime=310712
+/home/rejiya/project/routes/users.js:35
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-04T01:33:52.135Z - [31merror[39m: uncaughtException: missing ) after argument list date=Wed Oct 04 2017 07:03:52 GMT+0530 (IST), pid=18535, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50429952, heapTotal=35717120, heapUsed=18038732, external=102141, loadavg=[0.1474609375, 0.21044921875, 0.39501953125], uptime=310740
+/home/rejiya/project/routes/users.js:35
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-05T01:28:40.299Z - [31merror[39m: uncaughtException: Unexpected token . date=Thu Oct 05 2017 06:58:40 GMT+0530 (IST), pid=28986, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49479680, heapTotal=35717120, heapUsed=18621900, external=169245, loadavg=[0.30908203125, 0.373046875, 0.396484375], uptime=396822
+/home/rejiya/project/routes/users.js:31
+     console.log(req.body);
+            ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-05T01:31:50.461Z - [31merror[39m: uncaughtException: Unexpected token . date=Thu Oct 05 2017 07:01:50 GMT+0530 (IST), pid=29002, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50249728, heapTotal=35717120, heapUsed=18068784, external=102225, loadavg=[0.1142578125, 0.2763671875, 0.35986328125], uptime=397012
+/home/rejiya/project/routes/users.js:31
+     console.log(req.body.name);
+            ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-05T09:46:06.860Z - [31merror[39m: uncaughtException: Unexpected token if date=Thu Oct 05 2017 15:16:06 GMT+0530 (IST), pid=31922, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49618944, heapTotal=35717120, heapUsed=18627268, external=169174, loadavg=[0.103515625, 0.25537109375, 0.39306640625], uptime=426666
+/home/rejiya/project/routes/users.js:32
+  if(!error)
+  ^^
+
+SyntaxError: Unexpected token if
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-05T09:47:06.728Z - [31merror[39m: uncaughtException: Unexpected token if date=Thu Oct 05 2017 15:17:06 GMT+0530 (IST), pid=31937, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50163712, heapTotal=35717120, heapUsed=18059200, external=102150, loadavg=[0.0380859375, 0.208984375, 0.36962890625], uptime=426726
+/home/rejiya/project/routes/users.js:32
+  if(!!error)
+  ^^
+
+SyntaxError: Unexpected token if
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-05T09:49:19.595Z - [31merror[39m: uncaughtException: Cannot create property 'next' on string '/profile' date=Thu Oct 05 2017 15:19:19 GMT+0530 (IST), pid=31977, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50286592, heapTotal=35717120, heapUsed=18322896, external=106322, loadavg=[0.57666015625, 0.322265625, 0.388671875], uptime=426859
+TypeError: Cannot create property 'next' on string '/profile'
+    at Function.handle (/home/rejiya/project/node_modules/express/lib/router/index.js:160:12)
+    at router (/home/rejiya/project/node_modules/express/lib/router/index.js:47:12)
+    at Object.<anonymous> (/home/rejiya/project/routes/users.js:29:24)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-06T12:25:02.707Z - [31merror[39m: uncaughtException: Invalid or unexpected token date=Fri Oct 06 2017 17:55:02 GMT+0530 (IST), pid=5711, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50315264, heapTotal=35717120, heapUsed=18061244, external=102142, loadavg=[0.35693359375, 0.48779296875, 0.517578125], uptime=8163
+/home/rejiya/project/routes/users.js:31
+  email:rej@gmail.com,
+           ^
+
+SyntaxError: Invalid or unexpected token
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-06T12:25:47.897Z - [31merror[39m: uncaughtException: Unexpected token { date=Fri Oct 06 2017 17:55:47 GMT+0530 (IST), pid=5723, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50565120, heapTotal=35717120, heapUsed=18067496, external=102141, loadavg=[0.2978515625, 0.45068359375, 0.501953125], uptime=8208
+/home/rejiya/project/routes/users.js:39
+  return res.json{(
+                 ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-06T12:27:03.669Z - [31merror[39m: uncaughtException: Unexpected token ) date=Fri Oct 06 2017 17:57:03 GMT+0530 (IST), pid=5734, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49184768, heapTotal=35717120, heapUsed=18842456, external=169166, loadavg=[0.287109375, 0.42236328125, 0.48974609375], uptime=8284
+/home/rejiya/project/routes/users.js:42
+    )};
+    ^
+
+SyntaxError: Unexpected token )
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-06T12:27:44.959Z - [31merror[39m: uncaughtException: rejgmail is not defined date=Fri Oct 06 2017 17:57:44 GMT+0530 (IST), pid=5745, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50425856, heapTotal=35717120, heapUsed=18293532, external=106427, loadavg=[0.14697265625, 0.36962890625, 0.47021484375], uptime=8325
+ReferenceError: rejgmail is not defined
+    at Object.<anonymous> (/home/rejiya/project/routes/users.js:31:9)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-06T12:28:58.341Z - [31merror[39m: uncaughtException: rej is not defined date=Fri Oct 06 2017 17:58:58 GMT+0530 (IST), pid=5756, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49426432, heapTotal=35717120, heapUsed=18867296, external=173433, loadavg=[0.171875, 0.33154296875, 0.44970703125], uptime=8398
+ReferenceError: rej is not defined
+    at Object.<anonymous> (/home/rejiya/project/routes/users.js:32:8)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-08T14:23:04.743Z - [31merror[39m: uncaughtException: Unexpected end of input date=Sun Oct 08 2017 19:53:04 GMT+0530 (IST), pid=6595, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49336320, heapTotal=35717120, heapUsed=18625064, external=169193, loadavg=[0.2275390625, 0.2880859375, 0.359375], uptime=27898
+/home/rejiya/project/routes/users.js:99
+});
+  ^
+
+SyntaxError: Unexpected end of input
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-08T14:23:55.075Z - [31merror[39m: uncaughtException: Unexpected end of input date=Sun Oct 08 2017 19:53:55 GMT+0530 (IST), pid=6638, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49610752, heapTotal=35717120, heapUsed=18624304, external=169193, loadavg=[0.2138671875, 0.2744140625, 0.3505859375], uptime=27948
+/home/rejiya/project/routes/users.js:99
+});
+  ^
+
+SyntaxError: Unexpected end of input
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-11T12:12:20.493Z - [31merror[39m: uncaughtException: Unexpected token * date=Wed Oct 11 2017 17:42:20 GMT+0530 (IST), pid=23298, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=49651712, heapTotal=35717120, heapUsed=18713932, external=169108, loadavg=[0.28955078125, 0.2978515625, 0.40576171875], uptime=279248
+/home/rejiya/project/routes/users.js:57
+});*/
+   ^
+
+SyntaxError: Unexpected token *
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-13T03:20:28.476Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Fri Oct 13 2017 08:50:28 GMT+0530 (IST), pid=31626, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52473856, heapTotal=35717120, heapUsed=23096472, external=782767, loadavg=[0.23388671875, 0.236328125, 0.25146484375], uptime=420132
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-13T03:20:54.233Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Fri Oct 13 2017 08:50:54 GMT+0530 (IST), pid=31636, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=51978240, heapTotal=35717120, heapUsed=23235796, external=782767, loadavg=[0.154296875, 0.216796875, 0.244140625], uptime=420158
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-13T03:22:14.472Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Fri Oct 13 2017 08:52:14 GMT+0530 (IST), pid=31649, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52535296, heapTotal=35717120, heapUsed=23570048, external=799151, loadavg=[0.041015625, 0.166015625, 0.22265625], uptime=420238
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-14T13:52:28.605Z - [31merror[39m: uncaughtException: Unexpected token ) date=Sat Oct 14 2017 19:22:28 GMT+0530 (IST), pid=3688, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=50163712, heapTotal=35717120, heapUsed=18049400, external=102125, loadavg=[0.59326171875, 0.40576171875, 0.34423828125], uptime=6118
+/home/rejiya/project/routes/users.js:33
+)};
+^
+
+SyntaxError: Unexpected token )
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/rejiya/project/server.js:23:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-16T11:52:15.294Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Mon Oct 16 2017 17:22:15 GMT+0530 (IST), pid=23896, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=56201216, heapTotal=36765696, heapUsed=22503252, external=715782, loadavg=[0.2109375, 0.34228515625, 0.560546875], uptime=171699
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-16T11:56:05.245Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Mon Oct 16 2017 17:26:05 GMT+0530 (IST), pid=23910, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52269056, heapTotal=35717120, heapUsed=23229504, external=782807, loadavg=[0.07177734375, 0.18359375, 0.44775390625], uptime=171929
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-16T11:58:52.556Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Mon Oct 16 2017 17:28:52 GMT+0530 (IST), pid=23962, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52310016, heapTotal=35717120, heapUsed=23217388, external=782807, loadavg=[0.150390625, 0.2021484375, 0.41015625], uptime=172096
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-16T12:04:19.386Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Mon Oct 16 2017 17:34:19 GMT+0530 (IST), pid=24041, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52027392, heapTotal=36765696, heapUsed=22571108, external=715782, loadavg=[0.49560546875, 0.47705078125, 0.47900390625], uptime=172423
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-16T12:10:39.149Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Mon Oct 16 2017 17:40:39 GMT+0530 (IST), pid=24138, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52535296, heapTotal=35717120, heapUsed=23098456, external=782807, loadavg=[0.619140625, 0.51806640625, 0.49755859375], uptime=172803
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-10-16T12:14:41.143Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Mon Oct 16 2017 17:44:41 GMT+0530 (IST), pid=24159, uid=1000, gid=1000, cwd=/home/rejiya/project, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/project/server.js], rss=52400128, heapTotal=35717120, heapUsed=23161620, external=799191, loadavg=[0.283203125, 0.40283203125, 0.46044921875], uptime=173045
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/project/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3
+2017-11-01T01:18:14.643Z - [31merror[39m: uncaughtException: listen EADDRINUSE :::3010 date=Wed Nov 01 2017 06:48:14 GMT+0530 (IST), pid=19631, uid=1000, gid=1000, cwd=/home/rejiya/billing_system, execPath=/usr/bin/nodejs, version=v6.11.2, argv=[/usr/bin/nodejs, /home/rejiya/billing_system/server.js], rss=52805632, heapTotal=35717120, heapUsed=23282964, external=782091, loadavg=[0.59423828125, 0.54443359375, 0.33349609375], uptime=431895
+Error: listen EADDRINUSE :::3010
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at Object.<anonymous> (/home/rejiya/billing_system/server.js:97:41)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:389:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:504:3

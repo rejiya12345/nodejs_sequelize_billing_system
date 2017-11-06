@@ -22,7 +22,11 @@ var Sequelize=require('sequelize');
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= //
 
 
+usersController.get(function(req,res){
 
+
+});
+  
 
 
  

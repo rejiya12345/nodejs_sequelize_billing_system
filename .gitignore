@@ -1,0 +1,5 @@
+node modules
+node_modules/*
+project_notes.txt
+logfile.log
+logfile

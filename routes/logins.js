@@ -24,13 +24,15 @@ var Sequelize=require('sequelize');
 
 usersController.post('/logindata',function(req,res){
 
+
  models.Login.create({
-    email:req.body.data.email,
-    password:req.body.data.password
+    email:req.body.email,
+    password:req.body.password
 
   }).then(function() {
+
+        res.redirect('/');    
         
-        console.log("its success");
         
     });
 });

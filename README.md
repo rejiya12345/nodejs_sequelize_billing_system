@@ -1,4 +1,1 @@
-
-This is a starter project for node.js
-
----type the project details in this file
+This is a billing software .It contains billing form to calculate all billing data and stored in a database.It also contains the total expenditure of a month 
